@@ -23,8 +23,19 @@ Other people,  have reported encouraging results when fine-tuning open-source LL
 
 In this repository, we explore the possibility of fine-tuning open-source LLMs to support Kinyarwanda.
 
+Most probably, better results could be achieved by leveraging the structure/morphology of Kinyarwanda (see the work by Nzeyimana & Niyongabo (2022)), 
+but but in our initial explorations this will not be explored. 
+
+
 ## References
 
 - Kuulmets, H., Purason, T., Luhtaru, A., & Fishel, M. (2024). Teaching LLaMA a New Language Through Cross-Lingual Knowledge Transfer. ArXiv, abs/2404.04042.
 - Xu, H., Kim, Y., Sharaf, A., & Awadalla, H.H. (2023). A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models. ArXiv, abs/2309.11674.
 - Trelis Research - [YouTube Video](https://youtu.be/bo49U3iC7qY?si=nwe89atcgeiybwSv)
+- Nzeyimana, A., & Niyongabo Rubungo, A. (2022). KinyaBERT: a Morphology-aware Kinyarwanda Language Model. ArXiv, abs/2203.08459.
+
+
+
+
+
+
