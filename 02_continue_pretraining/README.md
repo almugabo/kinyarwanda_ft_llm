@@ -1,5 +1,5 @@
-# kinyarwanda_ft_llm
-a repository about fine tuning LLMs in Kinyarwanda
+# continue Pretraining 
+This directory contains scripts used in continous pre-training 
 
+the first experiment is to see if small, open source LLM can generate coherent text in Kinyarwanda 
 
-- there have been 
