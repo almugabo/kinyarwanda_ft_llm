@@ -8,14 +8,18 @@ __pycache__/
 
 
 ##directories to ignore
-02_continue_pretraining/outputs/
+
+02_continue_pretraining/kinyallm_base_llama3_v0
+02_continue_pretraining/kinyallm_base_llama3_v1
+02_continue_pretraining/llamarwanda_full_v002
 02_continue_pretraining/llamarwanda_rw_v002
 02_continue_pretraining/outputs
 02_continue_pretraining/_unsloth_temporary_saved_buffers
+02_continue_pretraining/.ipynb_checkpoints
+
 03_instruction_finetuning_MT/llamarwanda_MT_v1
 03_instruction_finetuning_MT/outputs
-
-/home/mike/xGitHubRepos/kinyarwanda_ft_llm/x_inference
+03_instruction_finetuning_MT/.ipynb_checkpoints
 
 # Distribution / packaging
 .Python
