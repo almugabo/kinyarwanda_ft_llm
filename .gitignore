@@ -21,6 +21,9 @@ __pycache__/
 03_instruction_finetuning_MT/outputs
 03_instruction_finetuning_MT/.ipynb_checkpoints
 
+
+04_instruction_finetuning_general/kinyallm_ft_instr_llama3_v0
+
 # Distribution / packaging
 .Python
 build/
